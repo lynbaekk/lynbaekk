@@ -1,9 +1,12 @@
 # 👋 Hi, I’m @lynbaekkk
+
+Hello, welcome to my profile! I'm @lynbaekk, a student in Vietnam looking to contribute to open-source projects and enhance my programming skills!
+
 - 👀 I’m interested in CompSci
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: N/A
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: zzz
+- ⚡ Fun fact: I love sleeping... zzz
 
 ## My GitHub Stats
 
